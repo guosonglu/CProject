@@ -3,6 +3,5 @@
 
 int main() {
 	Dog dog;
-
 	return 0;
 }
