@@ -10,6 +10,8 @@ int main()
     vector<string> v;
     ifstream in("file.txt");
     string line;
+//     in >> line;
+//     cout << line << endl;
     while (getline(in,line))
     {
         v.push_back(line);
